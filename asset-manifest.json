@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/car-rental/static/css/main.f4509734.css",
+    "main.js": "/car-rental/static/js/main.e64006c2.js",
+    "index.html": "/car-rental/index.html",
+    "main.f4509734.css.map": "/car-rental/static/css/main.f4509734.css.map",
+    "main.e64006c2.js.map": "/car-rental/static/js/main.e64006c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4509734.css",
+    "static/js/main.e64006c2.js"
+  ]
+}
